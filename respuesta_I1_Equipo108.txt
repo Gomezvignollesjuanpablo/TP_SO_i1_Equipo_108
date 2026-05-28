@@ -1,0 +1,3 @@
+ALFA:
+a- Sí, ALFA pudo ver los datos de los demás.
+b- Si ALFA sube un archivo los demás sí pueden verlo.
