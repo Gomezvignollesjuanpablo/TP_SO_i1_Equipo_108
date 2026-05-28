@@ -1,5 +1,10 @@
+Equipo: 108
+ALFA:Gomez Vignolles Juan Pablo, BETA: Martínez	Federico Y GAMMA: Avalo Mauro
 ALFA:
 a- Sí, ALFA pudo ver los datos de los demás.
 b- Si ALFA sube un archivo los demás sí pueden verlo.
+BETA:
 c- Si BETA sube un archivo los demás si pueden verlo.
 d- Nos comunicamos mediante Discord 
+GAMMA:
+e- En project kanban funciona como comunicación visual. Sirve para que todo el equipo sepa qué está haciendo cada uno sin tener que pedirlo
