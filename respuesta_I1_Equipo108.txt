@@ -1,3 +1,5 @@
 ALFA:
 a- Sí, ALFA pudo ver los datos de los demás.
 b- Si ALFA sube un archivo los demás sí pueden verlo.
+c- Si BETA sube un archivo los demás si pueden verlo.
+d- Nos comunicamos mediante Discord 
